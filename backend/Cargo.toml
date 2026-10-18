@@ -1,0 +1,19 @@
+[workspace]
+members = ["indexer"]
+resolver = "2"
+
+# A workspace of its own, deliberately.
+#
+# `smart-contract/` is a Cargo workspace targeting wasm32v1-none with an aggressive
+# `[profile.release]` — `opt-level = "z"`, `lto`, and `overflow-checks = true`. That profile only
+# takes effect at a WORKSPACE ROOT. Making this crate a member there would silently drop the
+# block: the wasm would grow, overflow checks would go off in the deployed contract, and nothing
+# would fail to tell anyone.
+#
+# This tree is also native rather than wasm and has an ordinary dependency graph — an HTTP client
+# and an XDR decoder — which has no business anywhere near a contract's build.
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+publish = false

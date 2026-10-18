@@ -1,0 +1,14 @@
+/Users/binh/development/SellarChain/saintix-treasury/backend/target/release/deps/serde-f19936efa32799a5.d: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/binh/development/SellarChain/saintix-treasury/backend/target/release/build/serde-cf983305d3e1b233/out/private.rs
+
+/Users/binh/development/SellarChain/saintix-treasury/backend/target/release/deps/libserde-f19936efa32799a5.rlib: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/binh/development/SellarChain/saintix-treasury/backend/target/release/build/serde-cf983305d3e1b233/out/private.rs
+
+/Users/binh/development/SellarChain/saintix-treasury/backend/target/release/deps/libserde-f19936efa32799a5.rmeta: /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/binh/development/SellarChain/saintix-treasury/backend/target/release/build/serde-cf983305d3e1b233/out/private.rs
+
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/Users/binh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/Users/binh/development/SellarChain/saintix-treasury/backend/target/release/build/serde-cf983305d3e1b233/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/binh/development/SellarChain/saintix-treasury/backend/target/release/build/serde-cf983305d3e1b233/out
